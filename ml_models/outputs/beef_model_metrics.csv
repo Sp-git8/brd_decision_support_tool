@@ -1,0 +1,4 @@
+Model,CV AUROC,CV PR-AUC,Selected
+Logistic Regression,0.814,0.315,Yes
+Random Forest,0.816,0.289,No
+Gradient Boosting,0.797,0.259,No
