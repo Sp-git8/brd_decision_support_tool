@@ -1,6 +1,6 @@
 # BRD Decision Lab
 
-**Live dashboard:** https://brddecisionsupporttool-rharrp8pv5v436ho6q5zqw.streamlit.app
+**Live dashboard:** https://brddecisionsupporttool.streamlit.app
 
 Decision support for bovine respiratory disease (BRD) in feedlot cattle during the first 45 days after arrival.
 The site combines two complementary tools:
